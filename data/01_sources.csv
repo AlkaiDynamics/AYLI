@@ -1,0 +1,14 @@
+Source_ID,Short_Name,Tradition,Source_Type,Historical_Layer,Use,Independence_Notes,Exact_Citation_Status
+SRC-0001,Egyptian decan/calendar corpus,Egyptian,primary plus scholarly reconstruction,ancient Egyptian,native 36 architecture,independent of Mesopotamian 36 at origin,LOCATOR_PENDING
+SRC-0002,Three Stars Each,Mesopotamian,primary text tradition plus reconstruction,Mesopotamian,12x3=36,independent branch before Hellenistic join,LOCATOR_PENDING
+SRC-0003,Hellenistic zodiac-decan synthesis,Greco-Egyptian,source set,Hellenistic,branch-and-join lineage,transmission evidence,LOCATOR_PENDING
+SRC-0004,P.Oxy. 465,Greco-Egyptian,papyrus,ancient,72 pentad lattice,historical witness,LOCATOR_PENDING
+SRC-0005,Dee Heptarchic records,Dee,primary manuscript/edition,early modern,49 names; offices; 42 ministers,lineage corpus,LOCATOR_PENDING
+SRC-0006,Ashmole MS 1790 reconstruction,Ashmole,manuscript,early modern,coordinate reconstruction,downstream preservation; no convergence vote,LOCATOR_PENDING
+SRC-0007,Yijing stalk operation corpus,Chinese,primary tradition plus commentary,ancient layered,49 to 48+1 operation,culturally remote comparison,LOCATOR_PENDING
+SRC-0008,Vedic Hotr ritual-role corpus,Vedic,primary tradition plus scholarship,ancient layered,6+1 topology,culturally remote comparison,LOCATOR_PENDING
+SRC-0009,Messalah Seven Rings,Islamicate/Latin transmission,primary/edition,medieval,differently typed eighth,historical transmission uncertain,LOCATOR_PENDING
+SRC-0010,Cross-cultural giant source set,Comparative,source set,multiple,negative control,mixed genealogy; each member must be cited separately,MEMBER_LOCATORS_PENDING
+SRC-0011,Cross-tradition color source set,Comparative,source set,multiple,carrier test,mixed; no pooled independence vote,MEMBER_LOCATORS_PENDING
+SRC-0012,Dee Great Table and Fludd musical corpus,Early modern,source pair,early modern,topology checksum,Fludd may be downstream; no independence vote,LOCATOR_PENDING
+SRC-0013,Sethian Greek and Enochic hierarchy source set,Comparative,source set,multiple,operator differential,genealogies evaluated separately,MEMBER_LOCATORS_PENDING

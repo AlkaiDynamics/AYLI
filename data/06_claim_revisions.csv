@@ -1,0 +1,18 @@
+Claim_ID,Revision,Event_ID,Claim,Prior_Status,New_Status,Reason,Evidence_IDs,Supersedes,Residual
+CLM-001,r0,EV-R0001,Twelvefold tribal geometry may independently validate zodiacal structure,,HYPOTHESIS,apparent 4x3 match,,,Historical nativeness
+CLM-001,r1,EV-R0002,Twelvefold tribal geometry is not independent zodiac evidence,HYPOTHESIS,DOWNGRADED,zodiac assignment is later/non-native relative to the control,,CLM-001:r0,Preserve typed tribal structure without zodiac vote
+CLM-002,r0,EV-R0002,Egyptian native factorization is historically supported,,SUPPORTED,native calendrical axes survive source check,EVD-0001,,
+CLM-003,r0,EV-R0003,A factor transpose is not an independent confirmation once the native rectangle is granted,,RECLASSIFIED_NULL,divisor algebra makes transpose forced,,,Why a culture chooses that factorization
+CLM-004,r0,EV-R0004,The apparent missing Chinese H3 was a false negative,,SUPPORTED,withheld native grouping was located,,,Recension and carrier distribution
+CLM-005,r0,EV-R0005,Sethian Greek and Enochic hierarchies instantiate different transformations,,SUPPORTED,same schema produced distinct operator profiles,EVD-0014,,
+CLM-006,r0,EV-R0006,Giant is a cross-cultural motif rather than a universal ontological class,,SUPPORTED_REJECTION,adversarial comparison broke class identity,EVD-0011,,Retain motif and local operators
+CLM-007,r0,EV-R0007,Heptarchic names function as generated coordinate identifiers,,SUPPORTED,mechanical extraction and reconstruction,EVD-0005;EVD-0006,,Full generator ancestry
+CLM-008,r0,EV-R0008,Great Table and Fludd are exactly topologically equivalent,,DOWNGRADED_TO_SHAPE,shape passed while topology and direction failed,EVD-0013,,Chirality
+CLM-009,r0,EV-R0009,Egyptian and Mesopotamian thirty-six systems form a direct ancient lineage,,REJECTED,chronology and topology did not support continuity,EVD-0001;EVD-0002,,Locate later join
+CLM-010,r0,EV-R0010,A Hellenistic branch-and-join combines Babylonian zodiac and Egyptian decans,,SUPPORTED_LINEAGE,historical synthesis layer found,EVD-0003,,Member-level mapping
+CLM-011,r0,EV-R0011,An ancient 36-to-72 pentad transform existed,,STRONGLY_SUPPORTED,source-native twelve-by-six/five-degree organization,EVD-0004,,Member-level ancestry
+CLM-012,r0,EV-R0012,N+1 structures divide into multiple functionally different operator families,,SUPPORTED_FAMILY,withheld boundary container return and peer types differ,EVD-0008;EVD-0009;EVD-0010,,Complete taxonomy
+CLM-013,r0,EV-R0013,A native 7x8=56 transform fills the predicted scale lattice slot,,RESIDUAL,no qualifying source found,,,Leave unfilled
+CLM-014,r0,EV-R0014,All planetary glyphs descend through one compositional mechanism,,RECLASSIFIED,planet-by-planet results were mixed,,,Complete paleographic graph
+CLM-015,r0,EV-R0015,Color is a persistent carrier but not a universal cross-tradition lookup table,,PARTIAL_SUPPORT,carrier survived; exact lookup failed,EVD-0012,,Model spectral and non-spectral dimensions
+CLM-016,r0,EV-R0016,Hagonel occupies a differentiated mediator/general role in the Heptarchic structure,,SUPPORTED,member-withheld role prediction passed,EVD-0007,,Upstream mechanism without identity collapse

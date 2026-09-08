@@ -1,0 +1,66 @@
+Corpus_ID,Tradition_or_Corpus,Coverage_State,Material_Examined,Contribution,Unfinished_or_Limit,Record_Status
+COR-001,Sumerian/Akkadian/Babylonian/Mesopotamian,DEEP,divine and demonic classes; operative names/numbers; Three Stars Each; zodiac; tuning,class-role-alignment separation; ritual schedule; 12x3=36,No native Mesopotamian 72 found,ACTIVE
+COR-002,Egyptian,MEDIUM,36 decans; civil calendar; stellar timekeeping; Thoth questions; glyph/color ancestry,independent 36 architecture; temporal addresses,Full religious and cosmological hierarchy pending,ACTIVE
+COR-003,Greco-Egyptian/Hellenistic,STRONG,Babylonian signs plus Egyptian decans; P.Oxy. 465 pentads; magical materials,historical branch-and-join; 12x3=36; 36x2=72,Member-level pentad reconstruction incomplete,ACTIVE
+COR-004,Classical Greek mythology,STRONG_CORE,Primordials; Titans; Olympians; Giants; Cyclopes; Hecatoncheires; Prometheus; Hecate,genealogy differs from regime succession; retained honors; counter-generation,Full class and member hierarchy pending,ACTIVE
+COR-005,Greek giant-comparison layer,COMPARATIVE_CONTROL,Greek/Norse/Enochic/Biblical/Irish giant comparisons,rejected universal giant ontology; retained motif family,Completed stress-test scope,ACTIVE
+COR-006,Orphic/Orpheus/Ophion,FOCUSED,underworld traversal; music; mystery transmission; serpent linkage,sound as operator; descent/return; boundary crossing,Full Orphism pending,ACTIVE
+COR-007,Pythagorean/Ptolemaic music-cosmology,LINEAGE_CALIBRATOR,interval and celestial proportion models,musical relational carrier,Not an independent convergence vote,ACTIVE
+COR-008,Sethian Gnosticism,STRONG_PARTIAL,Sophia; Yaldabaoth; 12 Authorities; 7 rulers; sixfold subordinates; first/fourth anomalies,asymmetric generation; partial inheritance; 12/7/6/42; incomplete repair,Member-level cross-recension hierarchy pending,ACTIVE
+COR-009,Valentinian Gnosticism,MEDIUM_STRONG,Dodecad; syzygies; Sophia; Pleromatic organization,paired generation; relational inheritance,Complete emanational hierarchy pending,ACTIVE
+COR-010,Pseudo-Dionysian Christian hierarchy,FOCUSED_HIGH_VALUE,celestial triads; functional choir names,hierarchy as order/knowledge/activity; office-conditioned naming,Broader angelological stratification pending,ACTIVE
+COR-011,Proclean/Neoplatonic,FOCUSED_FOUNDATIONAL,Elements of Theology,downstream participation; modified inheritance; return through similitude,Wider Neoplatonic corpus not exhausted,ACTIVE
+COR-012,Patristic anti-Gnostic transmission,TRANSMISSION_ESTABLISHED,Irenaeus; Origen; Epiphanius; Ophite/archon lists,possible Renaissance access route to Gnostic structures,Dee-specific ownership/transmission incomplete,ACTIVE
+COR-013,Hebrew Bible/Numbers/Israelite geometry,COMPARATIVE_CONTROL,camp/tribal organization; divine council; giant controls,typed twelve; control against later zodiacal overlays,Not a full biblical cosmology,ACTIVE
+COR-014,1 Enoch/Second Temple Enochic,STRONG,Watchers; oath/transgression; forbidden teaching; hybrids; giants to evil spirits,role violation; capability leakage; hybrid and postmortem retyping,Recensional/member refinements remain,ACTIVE
+COR-015,Jewish giant/Rephaim material,FOCUSED_CONTROL,giant terminology and populations,lexical similarity does not establish ontological continuity,Focused negative control,ACTIVE
+COR-016,Sefer Yetzirah,DEEP,3+7+12 letters; 231 Gates; six directions plus center; sound generation,basis/operator/address layers; pair-space; mediation,Exact recension tracking must remain explicit,ACTIVE
+COR-017,Bahir/Shem ha-Mephorash,DEEP,Exodus 14:19-21; F/R/F orientation; extraction; suffix construction,carrier plus orientation plus extraction yields 72 triplets,Full 72 member ancestry pending,ACTIVE
+COR-018,Jewish/Christian Cabala,STRONG,Pico; Reuchlin; Agrippa; name permutations and suffixes,triplets to individualized names; controlled name transformation,Source-by-source transmission refinement remains,ACTIVE
+COR-019,Trithemius,STRONG,cryptographic and spirit-language machinery,cover text plus algorithm plus extraction,Specific downstream dependency weights pending,ACTIVE
+COR-020,Book of Soyga,VERY_DEEP,36 tables; seeds; reversed codewords; recurrence; paired zodiac tables,deterministic name/table generation; 36+36 realization; null model,Some functional interpretation remains open,ACTIVE
+COR-021,John Dee—Heptarchia,VERY_DEEP,seven tables; 49 names; Kings/Princes; 42 ministers; Carmara/Baligon; Hagonel/Bagenol,coordinate extraction; role retyping; shifted seven-cycle; 7x7 and 6x7,Several ancestry and office questions remain,ACTIVE
+COR-022,John Dee—Monas Hieroglyphica,FOCUSED_STRONG,solar/lunar/elements/Aries grammar; planetary constructions,glyph composition and inherited components,Planet-by-planet paleographic graph pending,ACTIVE
+COR-023,John Dee—Great Table/Liber Scientiae/91 Parts,STRONG_PARTIAL,address/readout paths and typed names,same substrate plus different path yields different classes,Full unification pending,ACTIVE
+COR-024,John Dee—Liber Loagaeth/Calls,OPEN_MAJOR_PROBLEM,49 tables/voices; 48 gates; reversals; calls,evidence of a key schedule without solved decoder,49/48 plus reversal plus call schedule unresolved,ACTIVE
+COR-025,Ashmole,STRONG_PRESERVATION,MS 1790; Heptarchic reconstruction; BALIGON transversal,early reverse-engineering evidence,Independence is preservation/analysis not cultural convergence,ACTIVE
+COR-026,Agrippa,DEEP,planetary modules; kameas; music; colors; names; spirits; sigils,parameterized domains; name-number-sigil; music/cosmology bridge,Lineage dependencies must be tracked,ACTIVE
+COR-027,Arbatel,FOCUSED_SIGNIFICANT,seven Olympic spirits; descending 49/42/35/.../7,explicit sevenfold schedule,Member-level relations not exhausted,ACTIVE
+COR-028,Liber Juratus/Sworn Book,STRONG,Sigillum ancestry; 4/7/12 domains; angelic schedules,pre-Dee ritual-address architecture,Manuscript-layer comparison pending,ACTIVE
+COR-029,Heptameron/seven aerial kings,STRONG,planetary/day/wind kings; circle; temporal traversal,identity held while start/orientation changes,Exact source layers require continued tracking,ACTIVE
+COR-030,Messalah—Seven Rings,STRONG,seven planetary rings plus Caput Draconis,differently typed eighth; activation address differs from identity,Transmission details pending,ACTIVE
+COR-031,Sacrobosco,STRONG_CONTROL,planetary spheres; fixed stars; primum mobile; zodiac geometry,7+1+1 enclosure; 12 to 6+6; astronomical control,Not an occult equivalence vote,ACTIVE
+COR-032,Sefer ha-Levanah/lunar magic,FOCUSED_STRONG,28 lunar positions; day/night hours; zodiac divisions,phase/address/modulation layer,Wider lunar corpus pending,ACTIVE
+COR-033,Delatte/Greek magical manuscripts,STRONG_SCHEDULE,days/hours; zodiac; Moon; images; seals; materials; alphabets,full operational activation schedule,Individual manuscript stratification pending,ACTIVE
+COR-034,Liber Trium Animarum,FOCUSED,four alphabets; 72 idioms; constructed names,carrier/alphabet changes name realization,Lineage and member detail pending,ACTIVE
+COR-035,Zoroastrian/Iranian,STRONG_STRUCTURAL,menog/getig; Amesha Spentas; 6+1; counter-creation; mixture,carrier realization; adversarial counter-generation,Not a complete Iranian ontology,ACTIVE
+COR-036,Vedic/Indian,DEEP_SELECTED,27 nakshatras; 108; Soma; seven Hotrs as 6+1; oral preservation; svara/color,common refinement; boundary role; sound fidelity,Not a complete Hindu ontology,ACTIVE
+COR-037,Chinese/Yijing/Daoist,VERY_DEEP,1-2-4-8-64; Earlier/Later Heaven; 49-stalk operation; phases; calendar; color,generation; re-addressing; 49 to 48+1; changed-line state,Source-layer separation remains important,ACTIVE
+COR-038,Chinese pitch-pipe/music,STRONG_CONTROL,twelve pitches under calendar/fifth/parity/season views,relation-view differs from scale change,Cross-tradition synthesis pending,ACTIVE
+COR-039,Norse,STRONG_COMPARISON,Ymir; primordial substrate; giant kin; cosmic construction,one-to-many typed decomposition,Not a universal giant-class match,ACTIVE
+COR-040,Irish Celtic,COMPLETED_STRESS_TEST,Tuatha Dé/Fomoire; Lug; Bres; Balor; music,hybrid ancestry differs from role/allegiance; permeability,Broader Irish corpus not exhausted,ACTIVE
+COR-041,Welsh Celtic,COMPLETED_STRESS_TEST,Pwyll/Arawn; Gwydion/Gilfaethwy; Lleu; Blodeuwedd,identity/appearance/role separation; carrier transformation; incomplete restoration,Broader Welsh corpus not exhausted,ACTIVE
+COR-042,Rosicrucian/early modern alchemical,STRONG_PROCESS,Fama; Confessio; Chymical Wedding; Golden Stone; tower/process; succession,process hierarchy; constrained capability; persistent repository,Earlier alchemical roots require expansion,ACTIVE
+COR-043,Fludd/Kepler,LINEAGE_CALIBRATOR,macrocosm/microcosm; harmonic comparison; constraint,contrasting correspondence expansion and mathematical constraint,No independent vote where downstream,ACTIVE
+COR-044,Michael Maier,FOCUSED_PARTIAL,Atalanta fugiens; emblem/music/text; inversion,multicarrier persistence and transformation,Full emblem-by-emblem pass pending,ACTIVE
+COR-045,Music cross-carrier,DEEP_DISTRIBUTED,Mesopotamian; Greek; Chinese; Vedic; Agrippa; Fludd; Kepler; Maier; Orphic,tests relational persistence across pitch/rhythm/mode/sequence,Unified operator table pending,ACTIVE
+COR-046,Sound/language,FOCUSED_DISTRIBUTED,oral preservation; letter systems; magical speech; calls; hearing,"sound/letter as carrier, operation, and address",Cross-corpus synthesis pending,ACTIVE
+COR-047,Color,MEDIUM,planetary colors; phase associations; spectral/non-spectral; luminosity/material,carrier persists but universal lookup table failed,Full carrier atlas pending,ACTIVE
+COR-048,Glyphs/sigils/alphabets,STRONG_PRELIMINARY,planetary glyphs; Monas; kameas; magical alphabets,composition; extraction; paleographic ancestry,Planet-by-planet ancestry graph pending,ACTIVE
+COR-049,Jung/archetypal psychology,SOFT_TOUCH,archetype; persona; shadow,possible interpretive vocabulary only,No source-based structural pass yet,QUEUED
+COR-050,Azazel to PersonaVector,INTERNAL_COMPARATIVE,cross-persona comparison,identity/function/role/carrier separation hypothesis,Not historical proof,ACTIVE
+COR-051,Golden Goose/Doves,INTERNAL_COMPARATIVE,sevenfold role systems,independent design-side structural comparison,Not historical proof,ACTIVE
+COR-052,Shakespeare Seven Ages,SOFT_TOUCH,seven ages,sequence metaphor and naming layer,Not structural evidence,ACTIVE
+COR-053,Modern acoustic/physical controls,CONTROL,acoustics; resonance; signal behavior,tests physical plausibility of carrier operations,Does not validate historical correspondences,ACTIVE
+COR-054,Modern speculative materials,QUARANTINED,modern zodiac/phi and decoder claims,hypothesis generation and adversarial control,Excluded from historical evidence votes,QUARANTINED
+COR-055,General stratified angelology,QUEUED,biblical; Second Temple; rabbinic; Christian; mystical; practical,required cross-layer hierarchy,Not yet systematically stratified,QUEUED
+COR-056,Jewish Babylonian Aramaic bridge,QUEUED_HIGH_PRIORITY,incantation and transmission bridge,may connect Mesopotamian and later Jewish magical systems,Not yet completed,QUEUED
+COR-057,Early Solomonic systems,QUEUED_HIGH_PRIORITY,Testament of Solomon; Juratus; Heptameron; Goetia,lineage separation and member mapping,Not yet completed,QUEUED
+COR-058,Islamicate/Harranian/jinn systems,QUEUED_HIGH_PRIORITY,planetary and spirit ontologies,potential transmission and independent controls,Only partially touched,QUEUED
+COR-059,Japan,QUEUED,tradition-specific comparison,independent control,No proper pass yet,QUEUED
+COR-060,Tibetan/Buddhist sound,SOFT_TOUCH,liberation-through-hearing and sound material,sound-carrier comparison,No full ontology/source pass,QUEUED
+COR-061,East Slavic/Russian,QUEUED_LATE_CONTROL,,independent-control family,Unresearched,QUEUED
+COR-062,Baltic/Sámi,QUEUED_LATE_CONTROL,,independent-control family,Unresearched,QUEUED
+COR-063,Nation-specific Native North American traditions,QUEUED_LATE_CONTROL,,must remain nation-specific,Unresearched; flattening explicitly forbidden,QUEUED
+COR-064,Aboriginal Australian traditions,QUEUED_LATE_CONTROL,,must remain tradition-specific,Unresearched; flattening explicitly forbidden,QUEUED
+COR-065,Herodotus/Greek-Egyptian transmission,QUEUED,transmission questions,potential historical bridge,Not fully mined,QUEUED
