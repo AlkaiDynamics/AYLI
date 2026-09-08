@@ -1,0 +1,13 @@
+Prediction_ID,Registered_Sequence,Prediction,Target_Corpus,Frozen_Criteria,Allowed_Search,Forbidden_Adjustment,Status,Resolution_Event_ID,Notes
+PRED-004,before EV-R0004,Native Chinese material contains the missing spacing-plus-four three-group,Chinese/Yijing/pitch,exact spacing and native grouping,source search,approximate remapping,CONFIRMED,EV-R0004,Reconstructed from preserved experiment history
+PRED-006,before EV-R0006,Cross-cultural giant cases will not survive as one ontological class,Norse/Greek/Enochic/Biblical/Irish,generation role fate substrate,adversarial comparison,lexical equivalence,CONFIRMED_AS_REJECTION,EV-R0006,
+PRED-007,before EV-R0007,Heptarchic names can be regenerated from table coordinates,Dee/Ashmole,documented table traversal,mechanical reconstruction,semantic free association,CONFIRMED,EV-R0007,
+PRED-008,before EV-R0008,If Great Table and Fludd are equivalent their topology and direction will match,Dee/Fludd,adjacency direction frozen,exact comparison,post-hoc rotation,PARTIAL_FAIL,EV-R0008,Shape passed; topology failed
+PRED-009,before EV-R0009,Egyptian and Mesopotamian thirty-six structures may form a direct lineage,Egyptian/Mesopotamian,typed chronology and topology,historical comparison,count-only inference,FAILED,EV-R0009,
+PRED-010,before EV-R0010,A later synthesis layer joins the separate twelve and thirty-six branches,Hellenistic,historical join evidence,transmission search,back-projection,CONFIRMED,EV-R0010,
+PRED-011,before EV-R0011,An ancient source natively subdivides 36 into 72,Greco-Egyptian,two five-degree parts per decan or six per sign,source search,later numerology,CONFIRMED,EV-R0011,
+PRED-012,before EV-R0012,Repeated plus-one structures divide into functionally different types,Yijing/Vedic/Dee/Messalah,peer return container boundary withheld,function-first comparison,generic plus-one,CONFIRMED,EV-R0012,
+PRED-013,before EV-R0013,A source-native 7x8=56 transform occupies the predicted lattice slot,cross-corpus,explicit native 7 by 8 generation,holdout search,numerological match,UNRESOLVED_NULL,EV-R0013,Remains open; no qualifying hit
+PRED-014,before EV-R0014,Planetary glyphs share a common compositional ancestry,planetary glyph corpus,paleographic lineage,planet-by-planet test,visual resemblance,MIXED,EV-R0014,
+PRED-015,before EV-R0015,Cross-tradition colors may support a universal lookup table,color corpora,dimension-preserving exact mappings,source-native comparison,nearest-color remap,PARTIAL_FAIL,EV-R0015,Carrier survived; lookup failed
+PRED-016,before EV-R0016,Dee contains a special mediator/general rather than a mere missing 49th peer,Heptarchia,differentiated center/general office,member-withheld lookup,post-hoc identity equation,CONFIRMED,EV-R0016,Hagonel result

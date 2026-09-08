@@ -1,0 +1,9 @@
+flowchart TD
+    SRC["Source"] --> OBS["Observation / Evidence"]
+    PRED["Registered prediction"] --> EXP["Experiment"]
+    EXP --> OBS
+    OBS --> REV["Claim revision"]
+    REV --> ST["Typed transform row"]
+    ST --> A72["First-level 72 record"]
+    REV --> RES["Residual / failure"]
+    RES --> EXP

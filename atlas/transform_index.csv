@@ -1,0 +1,37 @@
+Transform_ID,Transform,Family,Systems_On_Board,Current_Interpretation
+ST-01,1 to 2 differentiation/polarity,CARDINALITY,Yijing/Daoist,one source differentiates into two typed poles
+ST-02,2 to 4 generation,CARDINALITY,Yijing/Daoist,two states generate four images
+ST-03,4 to 8 generation,CARDINALITY,Yijing/Daoist,four images generate eight trigrams
+ST-04,8 to 64 composition,CARDINALITY,Yijing/Daoist,upper and lower trigram composition
+ST-05,N to N re-addressing,STATE,Earlier/Later Heaven; Chinese pitch views; Heptarchia; weekday/Chaldean orders,identity persists while orientation or start index changes
+ST-06,12 to 36 subdivision/join,CARDINALITY,Mesopotamian; Greco-Egyptian; Egyptian ancestry separate,twelve sectors by three; historical branch-and-join
+ST-07,36 to 72 subdivision/dualization,CARDINALITY,Greco-Egyptian pentads; day/night or orientation candidates kept separate,two five-degree units per decan where source-native
+ST-08,12 to 72 sixfold refinement,CARDINALITY,Greco-Egyptian,six pentads per sign
+ST-09,24 to 72 triplet extraction,CARDINALITY,Shem ha-Mephorash,three oriented carrier rows across twenty-four positions
+ST-10,36 plus 36 to 72 paired realization,CARDINALITY,Book of Soyga,paired zodiacal tables; forward/reverse candidate
+ST-11,7 to 42 sixfold generation,CARDINALITY,Sethian; Dee,seven by six and six by seven must remain orientation-typed
+ST-12,7 to 49 square generation,CARDINALITY,Dee Heptarchia; Agrippa Venus kamea,seven-by-seven realization
+ST-13,49 to 48 plus 1 distinguished operation,CARDINALITY_TYPED,Yijing; Dee comparison,one member withheld or differently operational
+ST-14,7 to 6 plus 1 boundary topology,CARDINALITY_TYPED,Vedic Hotr; Dee residual comparison,six interior roles plus one boundary role
+ST-15,7 to differently typed eighth,CARDINALITY_TYPED,Messalah,seventh-domain system plus non-peer Caput Draconis
+ST-16,7 to eighth as return,CARDINALITY_TYPED,octave/re-entry systems,eighth repeats/transforms first at new register
+ST-17,7 to 8 plus 1 / 7 plus 1 plus 1 enclosure,CARDINALITY_TYPED,Sacrobosco/medieval spheres,planets plus fixed stars plus primum mobile
+ST-18,12 to 84 sevenfold refinement,CARDINALITY,Gnostic; Dee candidate kept separate,twelve by seven only where locally derived
+ST-19,12 to 144 nested addressing,CARDINALITY,Babylonian candidate,outer twelve by inner twelve
+ST-20,12 plus 27 to 108 common refinement,CARDINALITY,Vedic/zodiacal,least-common phase/address refinement
+ST-21,36 to 360 degree expansion,CARDINALITY,Egyptian/Hellenistic decans,ten degrees per decan
+ST-22,72 to 360 degree expansion,CARDINALITY,Greco-Egyptian pentads,five degrees per pentad
+ST-23,12 to 360 degree expansion,CARDINALITY,zodiacal,thirty degrees per sign
+ST-24,360 to 365 plus residual calendar realization,CARDINALITY_TYPED,Egyptian and comparative calendars,ideal cycle to civil calendar with epagomenal residual
+ST-25,8 to 1 compression,STATE_CARDINALITY,Vasu/Bhishma comparison,whole-class contribution compressed into one carrier
+ST-26,1 to many substrate decomposition,STATE_CARDINALITY,Norse Ymir and true decomposition controls,single substrate becomes typed world components
+ST-27,A plus B to C hybrid/genealogical generation,STATE,Enochic; Irish; Greek and other native genealogies,parental combination generates new identity
+ST-28,Identity-preserving role retyping,STATE,Enochic Watchers; Baligon/Carmara; Bagenol/Hagonel,same actor changes office or alignment
+ST-29,Regime transform without actor conversion,STATE,Greek Titans/Cronids to Zeus regime,authority order changes while actors may persist
+ST-30,Carrier transform with identity persistence,STATE,Welsh; menog/getig; glyph/name/color/music,identity persists across body medium or representation
+ST-31,Death/residual transform,STATE,Enochic giants to spirits; remnant cases,death changes ontology/function without simple deletion
+ST-32,Partial repair/return,STATE,Sophia; Welsh incomplete restoration; cyclic return,restoration is incomplete or typed
+ST-33,Counter-generation/opposition,STATE,Zoroastrian; Greek; adversarial paired layers,a system generates an opposed or countervailing structure
+ST-34,Mediation/center/boundary transform,STATE,3+1+3; 6+1; Hagonel; Sabaoth,non-peer node mediates partitions or domains
+ST-35,Name-generation transform,STATE,Shem; Reuchlin/Agrippa; Soyga; Heptarchia; Great Table; alphabets,carrier plus orientation plus extraction yields names
+ST-36,Activation/key-schedule transform,STATE,Mesopotamian ritual; Juratus; Heptameron; Messalah; Dee; lunar schedules,identity is activated by time address orientation material or call
